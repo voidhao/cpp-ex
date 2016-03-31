@@ -67,6 +67,7 @@ void Student::print() {
     }
 }
 
+
 int main()
 {
     Student stu1("puhao", "male");
